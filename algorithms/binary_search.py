@@ -1,5 +1,5 @@
 # Binary search -> Expects sorted array/ list
-# Time Complexity -> | Space Complexity -> 
+# Time Complexity -> O(logn)
 
 def binary_search(array, key):
     list_len = len(array) if array else 0
